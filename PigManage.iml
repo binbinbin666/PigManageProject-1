@@ -36,6 +36,34 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
+          <root url="jar://D:/Downloads/taglibs-standard-jstlel-1.2.5.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/Downloads/taglibs-standard-compat-1.2.5.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/Downloads/taglibs-standard-impl-1.2.5.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/Downloads/taglibs-standard-spec-1.2.5.jar!/" />
           <root url="jar://$MODULE_DIR$/../mysql-connector-java-8.0.15.jar!/" />
         </CLASSES>
         <JAVADOC />
